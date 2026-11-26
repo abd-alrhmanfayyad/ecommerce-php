@@ -1,0 +1,2 @@
+# Images uploaded through the admin pages (the site creates them, Git doesn't keep them)
+assets/uploads/
